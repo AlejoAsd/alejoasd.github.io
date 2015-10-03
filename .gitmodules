@@ -1,0 +1,6 @@
+[submodule "ship"]
+	path = ship
+	url = https://alejoasd@github.com/alejoasd/ship
+[submodule "MidpointRaster"]
+	path = MidpointRaster
+	url = https://alejoasd@github.com/alejoasd/MidpointRaster
